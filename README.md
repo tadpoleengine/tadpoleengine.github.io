@@ -1,7 +1,9 @@
-rostrum
+Tadpole Engine
 ===
 
-A cross-platform service for 2D single and multiplayer games. Write your game once in Lua, instantly deploy to the rostrum client on Windows, Macintosh, Linux, iOS, Android, and the browser. Never stress about porting, distributing, hosting, or deploying your game ever again.
+A cross-platform game engine for making 2D networked games in Lua. Formerly codenamed "rostrum", so you will that name lying around a few places.
+
+This website contains blog posts and articles about Tadpole Engine. Code and documentation can be found at the project page on Github: https://github.com/lwb4/tadpole
 
 articles
 ---
@@ -13,3 +15,5 @@ articles
 [first round of Lua scripting support](lua.md)
 
 [switching from SDL_net to websockets](websockets.md)
+
+[rostrum becomes tadpole](tadpole.md)
