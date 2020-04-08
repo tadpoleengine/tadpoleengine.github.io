@@ -17,3 +17,5 @@ articles
 [switching from SDL_net to websockets](websockets.md)
 
 [rostrum becomes tadpole](tadpole.md)
+
+[cross platform continuous integration](ci.md)
